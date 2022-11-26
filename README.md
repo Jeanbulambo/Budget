@@ -10,7 +10,7 @@
 
 ## Video Link
 
-[VIDEO LINK](https://www.loom.com/share/a4f8625f482f455a81ade10c0f43ac88)
+[VIDEO LINK](https://www.loom.com/share/e2f74f7c2f6f484a8f500c831f6c78b0)
 
 ## Getting Started
 
