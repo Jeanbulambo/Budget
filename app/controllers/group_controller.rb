@@ -1,4 +1,4 @@
-class GroupsController < ApplicationController
+class GroupController < ApplicationController
   before_action :authenticate_user!, except: :index
 
   def index
